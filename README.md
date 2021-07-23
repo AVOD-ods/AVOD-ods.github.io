@@ -1,13 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 ## mac OS下使用JSP+Tomcat+mysql+navicat链接数据库过程
 
